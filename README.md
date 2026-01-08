@@ -12,4 +12,4 @@ Tailwind Traders is an international retailer for hardware such as plumbing, lig
 - Power BI Desktop was utilized to further clean, transform, and load data. The data model was designed using Power BI.
 - The final report was published to a new dashboard in Power BI Service.
 
-- [Download PDF Report](TailWind Traders Report.pdf)
+[Download PDF Report][(report.pdf)](https://github.com/danptin/PowerBI-Reports/blob/main/TailWind%20Traders%20Report.pdf)
